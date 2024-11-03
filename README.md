@@ -9,9 +9,9 @@ I'm a **Data Engineer Specialist** and **Product Leader** with over **7 years of
 ---
 
 ## 📊 Recent Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsmf&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsmf&layout=compact&theme=radical)
 
 ---
 
