@@ -8,13 +8,6 @@ I'm a **Data Engineer Specialist** and **Product Leader** with over **7 years of
 
 ---
 
-## 📊 Recent Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsmf&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsmf&layout=compact&theme=radical)
-
----
-
 ## 📌 Let's Collaborate!
 I'm passionate about **data engineering, automation**, and **cloud architecture**. Whether you're working on data pipelines, infrastructure automation, or financial analytics, feel free to connect! Let's build something amazing together!
 
