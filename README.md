@@ -3,7 +3,7 @@
 I'm a **Data Engineer Specialist** and **Product Leader** with over **7 years of experience** in the financial sector. 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-sousa-melo-ferreira/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaelsousameloferreira/?locale=en_US)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/rafaelsmf)
 
 ---
